@@ -146,7 +146,7 @@ GELRWeave is designed to handle high volumes of requests efficiently. In benchma
 
 ## License
 
-GELRWeave is released under the [MIT License](LICENSE).
+GELRWeave is released under the [MIT License](https://opensource.org/license/mit).
 
 ## Contact
 
