@@ -11,9 +11,8 @@
 7. [Configuration](#configuration)
 8. [Performance](#performance)
 9. [Security Considerations](#security-considerations)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
+10. [License](#license)
+11. [Contact](#contact)
 
 ## Introduction
 
