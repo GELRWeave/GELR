@@ -144,10 +144,6 @@ GELRWeave is designed to handle high volumes of requests efficiently. In benchma
 - Regularly audit the codebase and conduct security assessments
 - Monitor the impact on block processing time and network load
 
-## Contributing
-
-We welcome contributions to GELRWeave! Please see our [Contributing Guide](CONTRIBUTING.md) for more information on how to get started.
-
 ## License
 
 GELRWeave is released under the [MIT License](LICENSE).
@@ -155,7 +151,7 @@ GELRWeave is released under the [MIT License](LICENSE).
 ## Contact
 
 For questions, suggestions, or support, please contact us at:
-- Web: (gelr.io)
+- Web: [GELRWeave](gelr.io)
 - Twitter: [@GELRWeave](https://twitter.com/GELRWeave)
 - Telegram: [GELRWeave Community](https://t.me/gelrweavePORTAL)
 
